@@ -8,7 +8,7 @@ output: html_document
 
 ## Day 2 - R Course
 
-
+ls
 The summer started yesterday. We:
 -Ran over introudctions
 -Island Tour
