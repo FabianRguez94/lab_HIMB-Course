@@ -1,0 +1,33 @@
+---
+title: "HIMB Course"
+author: "Me"
+date: "5/14/2019"
+output: html_document
+---
+# Fabian HIMB
+
+## Day 2 - R Course
+
+something
+sdf
+asdf
+
+
+The summer started yesterday. We:
+-Ran over introudctions
+-Island Tour
+-Shopping
+
+$$ E =  {m}{c^2} $$
+
+Here is a website I like: 
+
+![HIMB](HIMB_2_video_0.jpg)
+
+```{r, echo=FALSE}
+#echo ist just to remove the ecuation in the Knit Page
+
+hist(rnorm (1000),main = ("Number of people in the course"), xlab = "People", ylab = "Number")
+```
+
+>Figure 1: Histogram of the number of people in the course
