@@ -8,12 +8,6 @@ output: html_document
 
 ## Day 2 - R Course
 
-something
-sdf
-asdf
-asdasjas
-ldj
-
 
 The summer started yesterday. We:
 -Ran over introudctions
